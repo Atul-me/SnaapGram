@@ -1,3 +1,6 @@
+//"test": "echo \"Error: no test specified\" && exit 1",
+
+
 import express from "express";
 import bodyParser from "body-parser";
 import mongoose from "mongoose";
